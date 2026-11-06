@@ -36,12 +36,14 @@ For the full guide to shaping a persona, see the
 
 ## Installing
 
-Ask Casa's configurator in chat:
+Ask Casa's configurator in chat, naming the version (a persona install does not
+pick the latest one for you):
 
-> Install the persona from bonzanni/casa-persona-yoda
+> Install the persona from bonzanni/casa-persona-yoda at v0.1.0
 
 Approve the DM prompt, then: *"Apply the yoda persona to the assistant"*
-(residents swap on restart; specialists on reload).
+(a resident swaps on its next restart, which starts its conversations fresh; a
+specialist swaps on reload, for new conversations).
 
 ## License
 
