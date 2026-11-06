@@ -36,6 +36,9 @@ For the full guide to shaping a persona, see the
 
 ## Installing
 
+Needs Casa 0.347.14 or newer, where any of the three residents can wear it. An
+older Casa installs it and then refuses to apply it.
+
 Ask Casa's configurator in chat, naming the version (a persona install does not
 pick the latest one for you):
 
@@ -43,7 +46,8 @@ pick the latest one for you):
 
 Approve the DM prompt, then: *"Apply the yoda persona to the assistant"*
 (a resident swaps on its next restart, which starts its conversations fresh; a
-specialist swaps on reload, for new conversations).
+specialist can wear it only if its role lists this pack, and swaps on reload, for
+new conversations).
 
 ## License
 
